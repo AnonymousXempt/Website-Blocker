@@ -28,7 +28,7 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 
 3. Enter password when prompted (Password = "xempt" without the quotes) 
 
-4. When GUI box appears enter website domain ('google.com' or 'www.google.com')
+4. When GUI box appears enter any website domain (e.g. 'google.com' or 'www.google.com')
 
 5. Computer will then be unable to access domain
 
