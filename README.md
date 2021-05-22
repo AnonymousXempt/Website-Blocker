@@ -41,9 +41,12 @@ and remove the last few lines
 
 ### Image 1
 <img width="715" alt="image 1" src="https://user-images.githubusercontent.com/82794434/119240668-5626cc00-bb90-11eb-8895-eb6ac4b9e2b6.PNG">
+
 ### Image 2
-<img width="718" alt="image 2" src="https://user-images.githubusercontent.com/82794434/119240664-53c47200-bb90-11eb-8dc2-4720bea4e5c6.PNG">
+<img width="715" alt="image 2" src="https://user-images.githubusercontent.com/82794434/119240664-53c47200-bb90-11eb-8dc2-4720bea4e5c6.PNG">
+
 ### Image 3
-<img width="719" alt="image 3" src="https://user-images.githubusercontent.com/82794434/119240665-54f59f00-bb90-11eb-9153-00ce0c92eabe.PNG">
+<img width="715" alt="image 3" src="https://user-images.githubusercontent.com/82794434/119240665-54f59f00-bb90-11eb-9153-00ce0c92eabe.PNG">
+
 ### Image 4
-<img width="1128" alt="image 4" src="https://user-images.githubusercontent.com/82794434/119240667-558e3580-bb90-11eb-9f0d-2c2f741c7f60.PNG">
+<img width="715" alt="image 4" src="https://user-images.githubusercontent.com/82794434/119240667-558e3580-bb90-11eb-9f0d-2c2f741c7f60.PNG">
