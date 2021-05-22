@@ -11,9 +11,10 @@ Xempt Website Blocker is designed to block websites at school to avoid doing sch
 - Xempt Website Blocker.exe
 
 # Contents
- 1. [Download](https://github.com/AnonymousXempt/Microsoft-Office-Cracked#Download)
- 2. [Install-and-Run](https://github.com/AnonymousXempt/Microsoft-Office-Cracked#Install-and-Run)
- 3. [Images](https://github.com/AnonymousXempt/Microsoft-Office-Cracked#Images)
+ 1. [Download](https://github.com/AnonymousXempt/Website-Blocker#Download)
+ 2. [Install-and-Run](https://github.com/AnonymousXempt/Website-Blocker#Install-and-Run)
+ 3. [Fix](https://github.com/AnonymousXempt/Website-Blocker#Fix)
+ 4. [Images](https://github.com/AnonymousXempt/Website-Blocker#Images)
 
 # **Download**
 
